@@ -22,13 +22,11 @@ The data dictionary can be found [here](https://sda.berkeley.edu/sdaweb/docs/scf
 
 # 4. Analysis
 
-### Looking at the age group distribution.
-
 ![Age Group](images/age_group.jpg)
 
 The chart above shows that most of the people who fears being rejected for credits are young. The most prevalent group being the people who are between 35 and 44 years old, followed by people who are under the age of 35. 
 
-![Income category](images\income.jpg)
+![Income category](images/income.jpg)
 
 Comparing income categories accross credit fearful and non-credit fearful groups. It is clear that credit fearful group is much common in lower income category group.
 
@@ -36,6 +34,6 @@ Based on the dataset, it is prevalent that among the people who have responded t
 
 A plurality of young and low-income had the highest number of respondents. It seems like young people tends to make less money and rely more heavily on credit to get their lives off the ground, so having been denied credit makes them more anxious about the future.
 
-![Incone category](images\education.jpg)
+![Incone category](images/education.jpg)
 
 A much higher propotion of credit-fearful respondents have a high school diploma while university degrees are more common among the non-credit fearful group. 
