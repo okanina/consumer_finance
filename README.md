@@ -22,9 +22,9 @@ The data dictionary can be found [here](https://sda.berkeley.edu/sdaweb/docs/scf
 
 # 4. Analysis
 
-###Looking at the age group distribution.
+### Looking at the age group distribution.
 
-![Age Group](images\age_group.jpg)
+![Age Group](images/age_group.jpg)
 
 The chart above shows that most of the people who fears being rejected for credits are young. The most prevalent group being the people who are between 35 and 44 years old, followed by people who are under the age of 35. 
 
