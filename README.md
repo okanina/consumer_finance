@@ -21,8 +21,8 @@ The data dictionary can be found [here](https://sda.berkeley.edu/sdaweb/docs/scf
 2. I selected high variance features for the model
 
 # Analysis
- ![scatterplot](images/scatter.png)
- ![clusters](images/newplot.png)
+ 
+ ![clusters](images/newplot.png) ![scatterplot](images/scatter.png)
 
  The clusters are partially based on **NETWORTH** so my analysis will be based on networth as well.Looking at the 5 clusters on the chart above, the households in cluster 1 have the smallest networth of the 5 clusters, while cluster 4 has the highest networth value. 
 
